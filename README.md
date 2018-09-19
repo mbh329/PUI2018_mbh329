@@ -3,3 +3,8 @@
 Commiting text from ADRF to github readme/screenshots to come
 trying to workout kinks
 https://drive.google.com/drive/u/1/folders/1yjoWBIooJxXrpnfoNB3IR91PDv7ARKxK
+
+
+![alt text] https://github.com/mbh329/PUI2018_mbh329/blob/master/bashprofile_alias_2018-09-11%20at%205.31.03%20PM.png
+
+![alt text] https://github.com/mbh329/PUI2018_mbh329/blob/master/bashrc_2018-09-11%20at%205.35.18%20PM.png
