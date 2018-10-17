@@ -9,7 +9,9 @@
 
 ### Subscribers are more likely to use Citibike during peak hours (7am - 9am, 5pm - 7pm) than customers during peak hours 
 
-### Comments:  This is an interesting idea but it could be more helpful to formulate a testable hypothesis and specify what exactly it means by more usage. One idea could be to specify the sample statistic that we are measuring here. E.g we could state that:
+## Comments:  
+
+#### This is an interesting idea but it could be more helpful to formulate a testable hypothesis and specify what exactly it means by more usage. One idea could be to specify the sample statistic that we are measuring here. E.g we could state that:
  
 ##### average trip duration of customers during peak hours is greater than subscribers 
 
