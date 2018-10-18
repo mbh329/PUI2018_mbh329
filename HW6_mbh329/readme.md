@@ -1,4 +1,5 @@
-   
+### For this weeks homework, I worked with myself for assignment 1 when reviewing my partners null hypothesis. For assignment two, I worked with primarily with Duke. I also helped manrique with his. For assignment 3 + 4, I worked with Manrique and Amber. Everyone was very helpful. 
+
 |  **Statistical Analyses**     | **IV(s)**         | **IV type(s)** | **DV(s)**       | **DV Types**  | **Control Var.** |**Q to be answered**|**H0**      | **alpha** |**Link to paper**|
 | ------------- |:-------------:| ----------:|------------:|----------:|-------------:|---------------:|-------:|------:|------------:|
 | Logistic regression |# of individuals (community size)| Continuous |Absence or presence of critical scalar stress levels|dichotomous| Hutterties of North America(control group|What is the relationship btw. community size + scalar stress levels in archaelogical communites when size can be estimated? Is there a theshhold of community size that there is a higher propability of a critical scalar stress levels?|test group(s) scalar stress level threshold <= control group scalar stress level threshold| 0.05|https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0091510#s4 |
