@@ -1,0 +1,1 @@
+This is my folder for HW 7 due OCT 24th, 2018. I completed this homework with the help of Pablo Mandiola and Cyrus. They helped me with a lot of the datafram set ups and showed me tricks with maps and how to format them and make them look pretty.
