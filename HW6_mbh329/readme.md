@@ -1,4 +1,4 @@
-### For this weeks homework, I worked with myself for assignment 1 when reviewing my partners null hypothesis. For assignment two, I worked with primarily with Duke. I also helped manrique with his. For assignment 3, I worked with Manrique and Amber. Everyone was very helpful. For assignment 4 i ran out of time. 
+### For this weeks homework, I worked with myself for assignment 1 when reviewing my partners null hypothesis. For assignment two, I worked with primarily with Duke. I also helped manrique with his. For assignment 3, I worked with Manrique and Amber. 
 
 |  **Statistical Analyses**     | **IV(s)**         | **IV type(s)** | **DV(s)**       | **DV Types**  | **Control Var.** |**Q to be answered**|**H0**      | **alpha** |**Link to paper**|
 | ------------- |:-------------:| ----------:|------------:|----------:|-------------:|---------------:|-------:|------:|------------:|
