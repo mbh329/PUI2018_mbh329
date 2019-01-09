@@ -2,9 +2,7 @@
   
 Commiting text from ADRF to github readme/screenshots to come <--- <i> This is me talking to myself and putting text from the local repo into Github <i>
   
-trying to workout kinks <--- <i> and again <i>
-  
-<i> sorry...now onto the assignment... <i>
+
   
 ## HW 2 Part 1: Lab 1
 
