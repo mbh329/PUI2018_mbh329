@@ -1,10 +1,10 @@
-For assingment 1, I had a lot of help from many generous colleagues who helped me with lots of code that I would not have been able to write. 
+For assingment 1, I had a lot of help from many generous colleagues who helped me with code and tests. 
 Cyrus Blankminship gave me some code relating to the first section of this assignment specifically the loop that created the time series analysis. 
 for event detection, I did most of it on my own (with the help of Biancos UI NB) but had a little help from P Mandiola to extract the actual date. 
 For the second section of this assn, I had help from P mandiola, a lot of help from k cauley and some help from ilyas as well who was kind enough to show us some alternate ways of doing it. 
-I was able to help Manrique in assignment with the np.where function. Many people tried to help me but i was a bit lost throughout this assignment. Hip hip hooray!
+I was able to help Manrique in assignment with the np.where function. 
 
-For assignment 2, I did it primarily by myself but P mandiola helped me get actual results which I am very grateful for. Thank you kind sir.
+For assignment 2, I did it primarily by myself but P mandiola helped me get proper results based on my area caluclations.
 
 ## NEW PLOT
 ![screen shot 2018-12-05 at 11 36 37 pm](https://user-images.githubusercontent.com/41444592/49561758-bb19d900-f8e6-11e8-81f2-038d9baaa748.png)
